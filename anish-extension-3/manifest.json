@@ -1,0 +1,13 @@
+{
+    "name": "anish extension 3",
+    "version": "1.0.0",
+    "description": "anish extension 3 description",
+    "manifest_version": 2,
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "bookmarks"
+    ]
+}
